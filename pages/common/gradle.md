@@ -19,7 +19,7 @@
 
 `gradle clean`
 
-- Compile and Release package:
+- Build a release `Android Package Kit` package (specific to `Android Studio):
 
 `gradle assembleRelease`
 
